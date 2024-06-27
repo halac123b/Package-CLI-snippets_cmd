@@ -1,0 +1,4 @@
+Python có rất nhiều package:
+- python3-pip: cũng là 1 package manager phổ biến nhất cho Python, khi cài bằng apt pip sẽ đc cài global cho interpreter mặc định
+
+- python3-dev: cho phép chạy Python với các code lõi bên trong của interpreter. vd: các package numpy, pandas đều có code lõi viết bằng C, nên cần package này để chạy đc các file C đó

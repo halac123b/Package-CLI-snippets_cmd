@@ -1,0 +1,4 @@
+Là 1 package chứa các module cần thiết khi compile và build 1 app:
+- GNU/g++ compiler
+- GNU debugger
+- ..
