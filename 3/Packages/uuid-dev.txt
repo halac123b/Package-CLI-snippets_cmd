@@ -1,0 +1,1 @@
+Package chứa Universally Unique Identifier (UUID) library, tạo và quản lí các UUID, các giá trị 128-bit dùng để định danh thông tin trên máy tính

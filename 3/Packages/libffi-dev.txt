@@ -1,0 +1,1 @@
+Package để sử dụng Foreign Function Interface (FFI) - khi 1 PL gọi và sử dụng code từ 1 PL khác (vd: code Python gọi code C)

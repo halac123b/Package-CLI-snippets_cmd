@@ -1,0 +1,1 @@
+Giúp nhanh chóng tạo các version ngôn ngữ khác nhau cho app.

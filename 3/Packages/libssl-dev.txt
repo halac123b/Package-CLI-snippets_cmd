@@ -1,0 +1,1 @@
+Package chứa OpenSSL library - chuyên các task mã hóa, sử dụng trong các chương trình yêu cầu SSL/TLS (an ninh mạng)
