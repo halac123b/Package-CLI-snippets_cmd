@@ -8,3 +8,4 @@ List of package folders:
 4. **dnf**: package manager on RHEL
 5. **strings**
 6. **lsb_release**
+7. **uname**
