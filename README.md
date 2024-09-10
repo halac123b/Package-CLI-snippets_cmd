@@ -9,3 +9,5 @@ List of package folders:
 5. **strings**
 6. **lsb_release**
 7. **uname**
+8. **gem**: package manager for Ruby
+9. **HomeBrew**: package manager on MacOS
