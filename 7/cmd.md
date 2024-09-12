@@ -1,8 +1,8 @@
 # uname - UNIX name: thông tin về Unix OS
 
-1. uname -mrs
+1. uname -mrs <br>
    Flag: <br>
 
--m: machine hardware name (x86_64, i686)
--r: kernel release (veesion)
--s: OS name
+-m: machine hardware name (x86_64, i686) <br>
+-r: kernel release (veesion) <br>
+-s: OS name <br>

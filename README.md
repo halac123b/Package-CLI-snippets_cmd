@@ -11,3 +11,4 @@ List of package folders:
 7. **uname**
 8. **gem**: package manager for Ruby
 9. **HomeBrew**: package manager on MacOS
+10. **rbenv**: manage Ruby installation
